@@ -131,6 +131,7 @@ github: <https://github.com/apachecn/scikit-learn-doc-zh/>
 * [@爱吹牛逼的小明](https://github.com/apachecn)（爱吹牛逼的小明）
 * [@JanzenLiu](https://github.com/JanzenLiu)（Janzen_Liu）
 * [@Ecauchy](https://github.com/Ecauchy)（Ecauchy）
+* [@jieming2002](https://github.com/jieming2002)（清洁攻城狮）
 
 
 ### 0.18
